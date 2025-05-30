@@ -1,4 +1,4 @@
-Сайты визитка детективного агенства с использованием Bootstrap + Servlet.
+Сайт визитка детективного агенства с использованием Bootstrap + Servlet.
 Главная страница:
 ![image](https://github.com/user-attachments/assets/fb93d967-9aee-44e9-93df-8e25beaeb751)
 Страница "О нас":
